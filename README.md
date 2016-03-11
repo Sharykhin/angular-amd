@@ -1,5 +1,8 @@
 angularAMD-sample
 =================
+Actually it is fork of:
+https://github.com/marcoslin/angularAMD
+
 
 Sample App created using angularAMD
 
